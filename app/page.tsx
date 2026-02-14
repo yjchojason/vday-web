@@ -38,7 +38,7 @@ export default function Home() {
           <PasskeyScreen
             key="step1"
             question="what is the date we started dating?"
-            correctAnswer="06/30/25"
+            correctAnswer="07/30/25"
             onSuccess={handleStep1Success}
           />
         )}
